@@ -1,0 +1,35 @@
+// Header
+header {
+  @extend %clearfix;
+  background: $black;
+  margin-bottom: 2rem;
+}
+
+header .container {
+  padding: 1rem 0;
+}
+
+// Logo
+.logo {
+  color: $white;
+  font-weight: $bold;
+}
+
+// Page navigation
+.navigation {
+  @include clean-list;
+  float: right;
+}
+
+.navigation__item {
+  float: left;
+  margin-left: 1.5rem;
+
+  &:first-of-type {
+    margin-left: 0;
+  }
+}
+
+.navigation__link {
+  color: $white;
+}

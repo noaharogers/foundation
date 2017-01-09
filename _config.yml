@@ -1,0 +1,12 @@
+# Site settings
+name: Foundation
+title: Foundation
+description: This is my foundation.
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+
+# Sass settings
+sass:
+  sass_dir: assets/stylesheets

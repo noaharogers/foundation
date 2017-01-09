@@ -1,0 +1,26 @@
+// Font weights
+$regular: 400;
+$bold: 700;
+
+// Header Font
+$header-font: $bold 16px/1.5 "Varela Round", sans-serif;
+
+// Body Font
+$body-font: $regular 16px/1.5 "Varela Round", sans-serif;
+
+// Colors
+$white: #fff;
+$black: #333;
+
+// Border Radius
+$border-radius:   3px;
+$circle:          50%;
+
+// Transitions
+$ease: ease-in-out .3s;
+
+// Large Screens
+$large: "(min-width: 1200px)";
+
+// Medium Screens
+$medium: "(min-width: 900px)";
