@@ -1,5 +1,5 @@
 # foundation
-This is my Jekyll foundation project used to create new projects.
+This is my Jekyll foundation project.
 
 #### Install Jekyll
 ```
@@ -13,5 +13,5 @@ jekyll serve
 
 #### View the project
 ```
-localhost:4000
+localhost:4000/foundation/
 ```
