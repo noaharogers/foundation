@@ -2,6 +2,7 @@
 name: Foundation
 title: Foundation
 description: This is my foundation.
+baseurl: "/foundation"
 
 # Build settings
 highlighter: rouge
